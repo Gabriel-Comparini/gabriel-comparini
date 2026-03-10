@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">About Me:</h3>
+<h3 align="center">About Me💫</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="center">Contributions</h2>
+<h2 align="center">Contributions📒</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">Social Media📱</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="center">Main Skills</h2>
+<h2 align="center">Main Skills🧠</h2>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<h2 align="center">Tools</h2>
+<h2 align="center">Tools🔧</h2>
 
 ###
 
